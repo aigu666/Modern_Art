@@ -16,6 +16,11 @@ line(400,0,400,360);
 line(300,360,300,500);
 line(320,360,320,500);
 line(400,360,400,500);
+line(120,380,120,200);
+line(0,360,500,0);
+line(0,300,500,300);
+
+
 
 noStroke();
 fill(#FF0009);
@@ -27,3 +32,19 @@ fill(#FCE800);
 rect(180,225,20,130);
 fill(#FF0009);
 rect(405,250,70,70);
+strokeWeight(7);
+stroke(255,0,127);
+ellipse(240,420,80,80);
+strokeWeight(8);
+stroke(0,0,255);
+ellipse(300,40,120,120);
+fill(0,255,0);
+rect(408,400,160,200);
+fill(51,255,51);
+rect(408,360,105,50);
+strokeWeight(8);
+stroke(102,0,102);
+ellipse(120,435,100,100);
+strokeWeight(8);
+stroke(102,0,102);
+ellipse(120,143,100,100);
